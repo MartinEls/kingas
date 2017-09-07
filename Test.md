@@ -1,3 +1,4 @@
+'''python
 and | else | in | return
 as | except | is | True
 assert | False | lambda | try
@@ -7,3 +8,4 @@ continue | from | not | yield
 def | global | or |
 del | if | pass |
 elif | import | raise |
+'''
